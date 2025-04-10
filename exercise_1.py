@@ -24,4 +24,4 @@ else:
         print(f"Valor total SEM desconto: R$ {valor_total_sem_desconto:.2f}")
         print(f"Valor total COM desconto de 11%: R$ {valor_total_com_desconto:.2f}")
 
-print("Obrigado por comprar no Atacado Braian Vargas, volte sempre!")
+print("Obrigado por comprar no Atacado Braian Vargas, volte sempre!!!!")
